@@ -27,7 +27,7 @@
 
 ## 📈 Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=omar-ram-hdz&theme=react&hide_border=true&border_radius=10&card_width=600&card_height=250"/>
+<!--     <img src="https://streak-stats.demolab.com?user=omar-ram-hdz&theme=react&hide_border=true&border_radius=10&card_width=600&card_height=250" alt="Streak stats Omar Ramirez Hdz"/> -->
 </p>
 
 <p align="center">
