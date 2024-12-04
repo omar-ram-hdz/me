@@ -27,14 +27,14 @@
 
 ## 📈 Stats:
 <p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=omar-ram-hdz&theme=algolia"/>
+</p>
+
+<p align="center">
 <!--     <img src="https://streak-stats.demolab.com?user=omar-ram-hdz&theme=react&hide_border=true&border_radius=10&card_width=600&card_height=250" alt="Streak stats Omar Ramirez Hdz"/> -->
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ram-hdz&theme=react&hide_border=true&border_radius=10"/>
     <img src="https://github-readme-stats.vercel.app/api?username=omar-ram-hdz&show_icons=true&theme=react&hide_border=true&border_radius=10" height="180" width="auto"/>
-</p>
-
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=omar-ram-hdz&theme=algolia"/>
 </p>
